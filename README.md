@@ -1,4 +1,4 @@
-# DecodeLabs Project 4 - Data Visualization
+#Data Visualization
 
 ## Tools Used
 - Python
